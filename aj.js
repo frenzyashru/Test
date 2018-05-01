@@ -2,6 +2,6 @@
 
 function(admin){
 
-	alert('new alert');
+	alert('new alert'); // noye
 
 }

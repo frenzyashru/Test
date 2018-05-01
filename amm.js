@@ -1,5 +1,5 @@
 function(admin){
 
-	alert('new alert');
+	alert('new post');
 
 }
