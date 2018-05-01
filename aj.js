@@ -2,7 +2,8 @@
 
 function(admin){
 
-	alert('new alert'); // noye
+
+	alert('new alert is added');
 
 
 	alert('new alert'); // noye
