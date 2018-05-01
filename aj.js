@@ -5,11 +5,13 @@ function(admin){
 
 	alert('new alert is added');
 
-
-	alert('new alert'); // noye
-		alert('new alert'); // noye
-				alert('new alert'); // noye
+}
 
 
+//this is test file
+
+function(resin){
+
+	alert('new alert is added');
 
 }
