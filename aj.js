@@ -5,10 +5,6 @@ function(admin){
 
 	alert('new alert is added');
 
-	alert('new alert is added');
-
-	alert('new alert is added');
-
 }
 
 
